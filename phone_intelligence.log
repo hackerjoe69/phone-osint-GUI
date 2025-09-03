@@ -1,0 +1,127 @@
+2025-09-01 12:13:43,630 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 12:13:43,770 - ERROR - Analysis error: 'int' object has no attribute 'upper'
+2025-09-01 13:02:44,488 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:02:44,523 - ERROR - Analysis error: 'int' object has no attribute 'upper'
+2025-09-01 13:07:31,773 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:07:31,980 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:07:40,430 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:07:40,511 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:07:43,361 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:07:43,462 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:07:44,915 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:07:45,014 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:07:47,072 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:07:47,160 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:08:12,293 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:08:12,388 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:08:15,955 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:08:16,085 - ERROR - Analysis error: name 'display_technical_details' is not defined
+2025-09-01 13:11:13,998 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:14,217 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:11:17,830 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:17,947 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:11:19,542 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:19,650 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:11:21,224 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:21,348 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:11:24,193 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:24,312 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:11:35,421 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:11:35,544 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:03,613 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:03,712 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:23,992 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:24,100 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:43,071 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:43,181 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:46,528 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:46,657 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:48,302 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:48,430 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:50,454 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:50,549 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:52,614 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:52,756 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:54,672 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:54,788 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:56,149 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:56,288 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:57,782 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:57,922 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:12:59,402 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:12:59,526 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:01,088 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:01,210 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:02,514 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:02,639 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:03,874 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:04,020 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:05,168 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:05,300 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:06,618 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:06,754 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:13:07,901 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 13:13:08,026 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 13:17:27,511 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:17:27,533 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 13:25:48,854 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 13:25:48,862 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 15:45:48,353 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 15:45:48,363 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 15:51:39,309 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 15:51:39,311 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_get_carrier_network_info'
+2025-09-01 15:51:39,313 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 15:56:24,913 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 15:56:24,916 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 16:04:04,607 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:04:04,613 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:04:23,859 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:04:23,863 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:04:45,433 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:04:45,438 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:06:33,513 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:06:33,522 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:20:47,681 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:20:47,685 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:21:39,122 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:21:39,130 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_get_carrier_network_info'
+2025-09-01 16:21:39,134 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:28:51,920 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:28:51,932 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:36:50,089 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:37:20,885 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:40:29,146 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:40:29,153 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:41:04,834 - INFO - Analysis requested for phone number: +2347***
+2025-09-01 16:41:04,837 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_get_carrier_network_info'
+2025-09-01 16:41:04,840 - INFO - Analysis completed for phone number: +2347***
+2025-09-01 16:42:41,610 - INFO - Analysis requested for phone number: +2348***
+2025-09-01 16:42:41,615 - INFO - Analysis completed for phone number: +2348***
+2025-09-01 16:44:32,169 - INFO - Analysis requested for phone number: +2348***
+2025-09-02 11:47:42,246 - INFO - Analysis requested for phone number: +2348***
+2025-09-02 11:55:29,424 - INFO - Analysis requested for phone number: +2347***
+2025-09-02 11:57:50,098 - INFO - Analysis completed for phone number: +2347***
+2025-09-02 11:59:07,818 - INFO - Analysis requested for phone number: +2347***
+2025-09-02 12:00:56,369 - INFO - Analysis completed for phone number: +2347***
+2025-09-02 12:03:48,905 - INFO - Analysis requested for phone number: +2347***
+2025-09-02 12:04:03,229 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 09:12:47,622 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 09:12:47,632 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:12:47,635 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:12:47,639 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 09:17:12,403 - INFO - Analysis requested for phone number: +2348***
+2025-09-03 09:17:12,406 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:17:12,406 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:17:12,409 - INFO - Analysis completed for phone number: +2348***
+2025-09-03 09:20:49,910 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 09:20:49,916 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:20:49,918 - ERROR - Network intelligence error: 'PhoneIntelligence' object has no attribute '_detect_online_status'
+2025-09-03 09:20:49,922 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 09:33:13,746 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 09:33:13,752 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 09:33:34,858 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 09:33:34,863 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 09:53:59,275 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 09:53:59,279 - INFO - Analysis completed for phone number: +2347***
+2025-09-03 10:02:37,353 - INFO - Analysis requested for phone number: +2347***
+2025-09-03 10:02:37,357 - INFO - Analysis completed for phone number: +2347***
